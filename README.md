@@ -1,6 +1,6 @@
 # Mypackage
 
-Mypackage is an python package template for convinience of personal project development.
+Mypackage is an python package template for convenience of personal project development.
 
 ## Inspired by
 
