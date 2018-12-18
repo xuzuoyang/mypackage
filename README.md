@@ -32,16 +32,14 @@ pip install mypackage
 
 ## Support
 
-TBC
+python3.5+
 
 ## Roadmap
 
 - [x] add tests.
-- [ ] add travis ci.
+- [x] add travis ci.
 - [ ] add use of tox.
-- [ ] add use of pipenv.
-- [ ] enrich content in docs.
-- [ ] cookiecutter this template.
+- [ ] cookiecutter mypackage.
 
 ## Changelog
 
