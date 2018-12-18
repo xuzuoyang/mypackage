@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- tox support.
+
+## [0.0.3] - 2018-12-18
+### Added
 - travis config.
 
 ## [0.0.2] - 2018-12-18
