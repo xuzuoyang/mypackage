@@ -33,8 +33,9 @@ TBC
 
 ## Roadmap
 
-- [ ] add tests.
-- [ ] add ci support.
+- [x] add tests.
+- [ ] add travis ci.
+- [ ] add use of tox.
 - [ ] add use of pipenv.
 - [ ] enrich content in docs.
 - [ ] cookiecutter this template.
