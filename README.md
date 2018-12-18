@@ -1,5 +1,7 @@
 # Mypackage
 
+[![Build Status](https://travis-ci.org/xuzuoyang/mypackage.svg?branch=master)](https://travis-ci.org/xuzuoyang/mypackage)
+
 Mypackage is an python package template for convenience of personal project development.
 
 ## Inspired by
