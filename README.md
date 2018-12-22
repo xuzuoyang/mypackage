@@ -38,7 +38,7 @@ python3.5+
 
 - [x] add tests.
 - [x] add travis ci.
-- [ ] add use of tox.
+- [x] add use of tox.
 - [ ] cookiecutter mypackage.
 
 ## Changelog

@@ -6,8 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- tox support.
-- cookiecutter support.
+- cookiecutter template.
+
+## [0.0.4] - 2018-12-22
+### Added
+- tox.
 
 ## [0.0.3] - 2018-12-18
 ### Added
