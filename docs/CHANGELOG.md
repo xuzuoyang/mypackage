@@ -6,7 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- cookiecutter template.
+- TBC.
+
+## [0.0.5] - 2018-12-23
+### Added
+- cookiecutter branch.
 
 ## [0.0.4] - 2018-12-22
 ### Added
