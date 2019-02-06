@@ -6,30 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- TBC.
+- Enrich setup.cfg.
 
 ## [0.0.6] - 2019-01-15
 ### Added
-- refine Makefile.
-- add setup.cfg.
+- Refine Makefile.
+- Add setup.cfg.
 
 ## [0.0.5] - 2018-12-23
 ### Added
-- cookiecutter branch.
+- Cookiecutter branch.
 
 ## [0.0.4] - 2018-12-22
 ### Added
-- tox.
+- Tox.
 
 ## [0.0.3] - 2018-12-18
 ### Added
-- travis config.
+- Travis config.
 
 ## [0.0.2] - 2018-12-18
 ### Added
-- tests.
-- basic commands in Makefile
-- pytest and flake8 in requirements.txt
+- Tests.
+- Basic commands in Makefile
+- Pytest and flake8 in requirements.txt
 
 ## [0.0.1] - 2018-12-16
 ### Added

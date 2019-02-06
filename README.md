@@ -40,6 +40,7 @@ python3.5+
 - [x] add travis ci.
 - [x] add use of tox.
 - [x] cookiecutter mypackage.
+- [ ] enrich setup.cfg for lint.
 
 ## Changelog
 
