@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/xuzuoyang/mypackage.svg?branch=master)](https://travis-ci.org/xuzuoyang/mypackage)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Mypackage is an python package template for convenience of personal project development.
+Mypackage is a python package template for convenience of personal project development.
 
 ## Inspired by
 
@@ -15,7 +15,8 @@ Mypackage is an python package template for convenience of personal project deve
 ## Installation
 
 ```bash
-pip install mypackage
+pip3 install --user cookiecutter
+cookiecutter https://github.com/xuzuoyang/mypackage -c cookiecutter project_name=AnotherPackage
 ```
 
 ## Usage
